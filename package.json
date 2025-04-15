@@ -1,0 +1,24 @@
+{
+  "name": "js_basics",
+  "version": "1.0.0",
+  "main": "jsbasics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PingLi",
+  "license": "ISC",
+  "description": "This is readme.",
+  "dependencies": {
+    "express": "^5.1.0",
+    "js_basics": "file:"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipingkroger/Webclass.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/lipingkroger/Webclass/issues"
+  },
+  "homepage": "https://github.com/lipingkroger/Webclass#readme"
+}
